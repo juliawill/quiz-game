@@ -3,11 +3,13 @@
 import { type Question } from "@/app/api/questions/route"
 import { ComponentPropsWithoutRef, useEffect, useState } from "react";
 
+// define props expected by Quiz component
 export interface QuizProps {
     questions: Question[];
     duration?: number;
 }
 
+// Quiz component
 export function Quiz({ questions, duration = 15 }: QuizProps) {
     const [complete, setComplete] = useState(false);
     const [points, setPoints] = useState(0);

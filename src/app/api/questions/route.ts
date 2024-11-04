@@ -24,6 +24,10 @@ export const GET = (request: Request) => {
             options: ["3", "4", "5", "6"],
             answer: "4"
         },
+    
+     // postgresql
+     // sql drizzle
+     
     ];
 
     return Response.json(questions);
