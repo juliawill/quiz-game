@@ -1,3 +1,16 @@
+// import { Pool } from "pg"; // PostgreSQL client
+
+// Create a connection pool to PostgreSQL
+/*
+const pool = new Pool({
+  user: process.env.DB_USER,
+  host: process.env.DB_HOST,
+  database: process.env.DB_NAME,
+  password: process.env.DB_PASSWORD,
+  port: Number(process.env.DB_PORT) || 5432,
+});
+*/
+
 export type Question = {
     id: number;
     question: string;
