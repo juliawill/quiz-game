@@ -105,7 +105,7 @@ A full-stack quiz game built with **Next.js**, **React**, **PostgreSQL**, and **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/quiz-game.git
+git clone https://github.com/juliawill/quiz-game.git
 cd quiz-game
 ```
 
@@ -240,10 +240,3 @@ Feel free to fork this project and submit pull requests. Contributions are welco
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-### Notes:
-
-- Replace `"https://github.com/yourusername/quiz-game.git"` with the actual URL of your repository.
-- If you have any additional instructions or environment setup, include them under "Setup and Installation".
-- You can expand the "Features" section if you plan to add more functionalities like user authentication, multiple quiz categories, or high score tracking.
-
