@@ -26,7 +26,6 @@ VALUES
   ('In 1875, this notorious political leader escaped from jail, fleeing first to Cuba and later to Spain.', 'Alfred Smith', 'William Magear "Boss" Tweed', 'Richard Croker', 'John Kelly', 'B', 30),
   ('In 1817, Congress divided a large territory that later became two states, nearly identical in size and shape.', 'Georgia and Alabama', 'Louisiana and Mississippi', 'Alabama and Mississippi', 'North and South Carolina', 'C', 30),
   ('The first Mexican-American to serve as mayor of a major U.S. city, he led this Texas city from 1981-1989.', 'Houston', 'Dallas', 'San Antonio', 'Austin', 'C', 30),
-  ('This 1786 uprising, led primarily by farmers, took place in Massachusetts and is now known as a major early protest.', 'Whiskey Rebellion', 'Shays\' Rebellion', 'The Civil War', 'Pontiac\'s Rebellion', 'B', 30),
   ('In this election year, the famous campaign slogans "The Moose is Loose" and "Ready for Teddy Again" were used.', '1908', '1912', '1916', '1920', 'B', 30),
   ('This bloody battle, fought in Maryland on September 17, 1862, was the turning point in the Confederate invasion of the North.', 'Battle of Gettysburg', 'Battle of Antietam', 'Battle of Bull Run', 'Battle of Fort Sumter', 'B', 30),
   ('On February 1, 1960, four black students held a sit-in at a lunch counter in this North Carolina city as a protest against segregation.', 'Charlotte', 'Greensboro', 'Raleigh', 'Durham', 'B', 30),
