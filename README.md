@@ -1,7 +1,3 @@
-Certainly! Here’s the complete, updated `README.md` based on your project structure and details:
-
----
-
 # Quiz Game
 
 A full-stack quiz game built with **Next.js**, **React**, **PostgreSQL**, and **Drizzle ORM**. The app allows users to answer quiz questions, view their score, and reset the quiz. It also integrates a PostgreSQL database to store questions and results, along with Docker for local development.
